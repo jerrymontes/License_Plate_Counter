@@ -1,5 +1,5 @@
 # The Car that Keeps Driving by my House: License Plate Counter
-**Capstone Project By: Jerry Montes
+**Capstone Project By: Jerry Montes**
 
 
 # Problem Statement
